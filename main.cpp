@@ -2,6 +2,7 @@
 #include <fstream>
 #include <windows.h>
 #include "dayOne/dayOne.hpp"
+#include "dayTwo/dayTwo.hpp"
 
 int main() {
     SetConsoleOutputCP( 65001 );
@@ -16,6 +17,7 @@ int main() {
             dayOneMain();
             break;
         case 2:
+            dayTwoMain();
             break;
         case 3:
             break;
