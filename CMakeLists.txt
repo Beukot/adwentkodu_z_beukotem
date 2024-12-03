@@ -5,4 +5,5 @@ set(CMAKE_CXX_STANDARD 20)
 
 add_executable(adwentkodu_z_beukotem main.cpp
         dayOne/dayOne.hpp
-        dayTwo/dayTwo.hpp)
+        dayTwo/dayTwo.hpp
+        dayThree/dayThree.hpp)

@@ -77,8 +77,6 @@ inline void readFile(int* res, int* resD) {
             }
         }
 
-
-
         levels.clear();
     }
 
