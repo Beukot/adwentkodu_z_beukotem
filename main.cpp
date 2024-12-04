@@ -1,6 +1,8 @@
 #include <iostream>
 #include <fstream>
 #include <windows.h>
+
+#include "dayFour/dayFour.hpp"
 #include "dayOne/dayOne.hpp"
 #include "dayThree/dayThree.hpp"
 #include "dayTwo/dayTwo.hpp"
@@ -24,6 +26,7 @@ int main() {
             dayThreeMain();
             break;
         case 4:
+            dayFourMain();
             break;
         case 5:
             break;
