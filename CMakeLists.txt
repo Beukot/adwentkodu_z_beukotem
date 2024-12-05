@@ -7,4 +7,5 @@ add_executable(adwentkodu_z_beukotem main.cpp
         dayOne/dayOne.hpp
         dayTwo/dayTwo.hpp
         dayThree/dayThree.hpp
-        dayFour/dayFour.hpp)
+        dayFour/dayFour.hpp
+        dayFive/dayFive.hpp)

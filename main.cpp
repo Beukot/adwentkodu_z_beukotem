@@ -2,6 +2,7 @@
 #include <fstream>
 #include <windows.h>
 
+#include "dayFive/dayFive.hpp"
 #include "dayFour/dayFour.hpp"
 #include "dayOne/dayOne.hpp"
 #include "dayThree/dayThree.hpp"
@@ -29,6 +30,7 @@ int main() {
             dayFourMain();
             break;
         case 5:
+            dayFiveMain();
             break;
         case 6:
             break;
